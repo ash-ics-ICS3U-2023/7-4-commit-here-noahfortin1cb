@@ -1,0 +1,2 @@
+
+const clickCountSpan = document.getElementById
